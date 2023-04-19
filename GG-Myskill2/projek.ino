@@ -6,6 +6,7 @@ const int ledPin1 = 6
     pinMode(ledPin1, OUTPUT);
 }
 
+
 void loop()
 {
     digitalWrite(ledPin1, HIGH);
