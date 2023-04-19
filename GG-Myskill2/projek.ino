@@ -1,8 +1,6 @@
-const int ledPin1 = 6
+const int ledPin1 = 5
 
-    void
-    setup()
-{
+    void setup() {
     pinMode(ledPin1, OUTPUT);
 }
 
