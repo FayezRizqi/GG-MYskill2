@@ -3,6 +3,7 @@ const int ledPin2 = 6;
 const int buttonPin1= 12;
 const int buttonPin2=14;
 
+
 void setup (){
     Serial.begin (9600);
     pinMode (ledPin2, OUTPUT);
