@@ -21,7 +21,7 @@ void loop() {
          digitalWrite (ledPin2, LOW); // Matikan LED 2
  }
       if(digitalRead(buttonPin2)==HIGH){
-        digitalWrite (ledPin2, HIGH); // nyalakan LED 2
+      digitalWrite (ledPin2, HIGH); // nyalakan LED 2
     }
          else{//jika button tidak ditekan
          digitalWrite (ledPin2, LOW); // Matikan LED 2
