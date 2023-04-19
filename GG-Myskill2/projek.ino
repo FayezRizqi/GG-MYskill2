@@ -17,6 +17,5 @@ void loop() {
     digitalWrite(ledPin1, LOW); // Matikan LED 1
     digitalWrite (ledPin2, LOW); // Matikan LED 2
  }
-   
-    
+      
 }
