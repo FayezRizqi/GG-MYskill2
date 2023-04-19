@@ -1,11 +1,7 @@
-void setup (){
-
-
-
+void setup()
+{ // test
 }
 
-void loop (){
-
-
-    
+void loop()
+{
 }
